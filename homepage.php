@@ -12,8 +12,8 @@
 <form action="" method="post" style="margin-left:100px; margin-top: -145px;">
 <br>
 <ul style="list-style: none;">
-<li><pre style="color: white; font-size: 18px;">CENTRAL LIBRARY
-F.C.R.I.T
+<li><pre style="color: white; font-size: 18px;">F.C.R.I.T CENTRAL LIBRARY
+
 </pre></li>
 <li>
 <p align="center"><a style="margin-left:470px; margin-top:-480px; padding: 5px; border:1px solid white; text-decoration:none; color: white;" href="insert_page.php">Add a book</a>
